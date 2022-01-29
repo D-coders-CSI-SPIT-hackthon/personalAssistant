@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ProBox - Whiteboard</title>
+    <script src="./assets/js/whiteboard.js" defer></script>
+    <link
+      rel="stylesheet"
+      href="../../assets/bootstrap/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="./assets/css/homepage.css">
+    {{!-- <link rel="stylesheet" href="style.css" /> --}}
+  </head>
+  <body>
+    <div>
+      <header>
+
+        <a href="#" class="logo"><span>Pro</span>Assistant</a>
+
+        <input type="checkbox" id="menu-bar">
+        <label for="menu-bar" class="fas fa-bars"></label>
+
+        <nav class="navbar">
+            <a href="/">home</a>
+          
+            <a href="/opentools">Tools</a>
+      
+        
+        </nav>
+
+    </header>
+
+    </div>
+      
+    <div style="margin-top: 100px; align-items:center;">
+      <div id="drawing-tools" class="btn-group" role="group" aria-label="drawing tools">
+
+        <button id="pencil" type="button" class="btn btn-secondary">Pencil</button>
+      <button id="eraser" type="button" class="btn btn-secondary">Eraser</button>
+      <button id="reset" type="button" class="btn btn-secondary">Reset</button>
+      
+    </div>
+    <canvas id="canvas" style="background-color: white;"></canvas>
+    </div>
+    
+  </body>
+</html>
