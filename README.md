@@ -11,6 +11,7 @@
   https://pro-assistant0.herokuapp.com/
 
 ## Video Link
+	[Watch Demo](https://drive.google.com/file/d/16ecFZ7-uBtGG83ksJb3Xf7tdnHuaABTk/view?usp=sharing)
 
 ## Features
 - REGEX templates - Don't Know Regex? Assistant got your back!
@@ -32,25 +33,29 @@
 - ### `Tools Page`!
   <img src="https://user-images.githubusercontent.com/52382282/151678822-720a059e-2ca6-4fb5-ae02-33b43397e9b9.png" alt="drawing" width="800"/>
 
-- ### `White Board` and `TODO List`
- <img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151678939-c97d419e-51ae-4f6f-a853-e846a9cc1010.png">
+- ### `White Board`
+ <img align="left" width="800" src="https://user-images.githubusercontent.com/52382282/151678939-c97d419e-51ae-4f6f-a853-e846a9cc1010.png">
 
- <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679040-e31a7137-3124-49ac-b992-43b644ec2bb5.png">
+- ### `TODO List`
+ <img align="right" width="800" src="https://user-images.githubusercontent.com/52382282/151679040-e31a7137-3124-49ac-b992-43b644ec2bb5.png">
   
-- ### `Tech News` and `ASCII values`
- <img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679085-2f316b29-3627-429d-9143-0e3f2171e9fd.png">
+- ### `Tech News` 
+ <img align="left" width="800" src="https://user-images.githubusercontent.com/52382282/151679085-2f316b29-3627-429d-9143-0e3f2171e9fd.png">
 
- <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679132-f9fafb4d-cd81-48fa-aba8-5e8a1f89a985.png">
+- ### `ASCII values`
+ <img align="right" width="800" src="https://user-images.githubusercontent.com/52382282/151679132-f9fafb4d-cd81-48fa-aba8-5e8a1f89a985.png">
 
- - ### `REGEX` and `Color Picker`
+ - ### `REGEX`
  <img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679180-4f5aee87-0e9c-4130-843b-d5eceef70da8.png">
 
- <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679194-e441d1b5-19f4-4057-9a59-9d0f9a65bc18.png">
+ - ### `Color Picker`
+ <img align="right" width="800" src="https://user-images.githubusercontent.com/52382282/151679194-e441d1b5-19f4-4057-9a59-9d0f9a65bc18.png">
 
- - ### `Contest Updates` and `Stack Overflow`
- <img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679260-201fb96c-9665-4814-863f-9e54550287eb.png">
+ - ### `Contest Updates`
+ <img align="left" width="800" src="https://user-images.githubusercontent.com/52382282/151679260-201fb96c-9665-4814-863f-9e54550287eb.png">
 
- <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679290-1e7f55c1-ff77-4625-89b1-f4844def4a4f.png">
+ - ### `Stack Overflow`
+ <img align="right" width="800" src="https://user-images.githubusercontent.com/52382282/151679290-1e7f55c1-ff77-4625-89b1-f4844def4a4f.png">
 
 
 
