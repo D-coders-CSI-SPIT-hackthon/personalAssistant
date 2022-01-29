@@ -6,6 +6,9 @@ const app = express();
 
 
 app.use('/news',require('./routes/news'))
+
+app.use('/contests',require('./routes/contests'))
+
 app.use('/', require('./routes/pages'));
 
 app.use(express.urlencoded({ extended: false }));
