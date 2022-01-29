@@ -32,7 +32,7 @@
   <img src="https://user-images.githubusercontent.com/52382282/151678791-e3237c08-88eb-44fb-b7d4-f3f66c0d74f3.png" alt="drawing" width="800"/>
 
 - ### `Tools Page`!
-  <img src="https://user-images.githubusercontent.com/52382282/151678822-720a059e-2ca6-4fb5-ae02-33b43397e9b9.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/151679983-f04af827-6981-4769-8a97-c1fea5a151cd.png" alt="drawing" width="800"/>
 
 - ### `White Board`
  <img  width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151678939-c97d419e-51ae-4f6f-a853-e846a9cc1010.png">
@@ -47,7 +47,7 @@
  <img width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679132-f9fafb4d-cd81-48fa-aba8-5e8a1f89a985.png">
 
  - ### `REGEX`
- <img  width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679663-219966b3-a0c2-49e3-81c1-7830304717bc.png">
+ <img  width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679919-a7004380-3a1e-4736-94b8-88ced84c5d43.png">
 
  - ### `Color Picker`
  <img width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679194-e441d1b5-19f4-4057-9a59-9d0f9a65bc18.png">
