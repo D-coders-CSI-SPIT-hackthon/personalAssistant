@@ -12,17 +12,19 @@
 
 
 ## Video Link
-  [Watch Demo](https://drive.google.com/file/d/16ecFZ7-uBtGG83ksJb3Xf7tdnHuaABTk/view?usp=sharing)
+  -[Watch Demo](https://drive.google.com/file/d/16ecFZ7-uBtGG83ksJb3Xf7tdnHuaABTk/view?usp=sharing)
+  
+  -[PPT](https://www.canva.com/design/DAE2zif8ye4/9eFiUEIITCY8j-xnmtH0sw/view?utm_content=DAE2zif8ye4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Features
-- REGEX templates - Don't Know Regex? Assistant got your back!
-- Tech News - Get yourself updated with Tech related feed!
-- Stack Overflow: search of stack overflow directly via assistant!
-- WhiteBoard - Sketch and define your ideas via whiteboard!
-- TodoList - Managing tasks made easy!
-- ASCII values - One stop for all ASCII values!
-- Color Picker - getting HEX, RGB codes was never this easy! 
-- Contest Updater - Keep yourself updated with latest coding contests!
+- `REGEX templates` - Don't Know Regex? Assistant got your back!
+- `Tech News` - Get yourself updated with Tech related feed!
+- `Stack Overflow` - search of stack overflow directly via assistant!
+- `WhiteBoard` - Sketch and define your ideas via whiteboard!
+- `TodoList` - Managing tasks made easy!
+- `ASCII values` - One stop for all ASCII values!
+- `Color Picker` - getting HEX, RGB codes was never this easy! 
+- `Contest Updater `- Keep yourself updated with latest coding contests!
 
 
 ## Screenshots
