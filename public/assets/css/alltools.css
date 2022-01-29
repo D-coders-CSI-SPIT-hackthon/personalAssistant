@@ -63,6 +63,11 @@ section{
     transition: all .3s linear;
 }
 
+.box img{
+    max-height: 100px;
+    max-width: 100%;
+}
+
 .btn{
     display: inline-block;
     margin-top: 1rem;
