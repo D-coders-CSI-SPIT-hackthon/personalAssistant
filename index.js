@@ -5,7 +5,9 @@ const path = require('path');
 const app = express();
 
 
+app.use('/news',require('./routes/news'))
 app.use('/', require('./routes/pages'));
+
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 app.set('view engine', 'hbs');
