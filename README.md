@@ -46,7 +46,7 @@
  <img width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679132-f9fafb4d-cd81-48fa-aba8-5e8a1f89a985.png">
 
  - ### `REGEX`
- <img  width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679180-4f5aee87-0e9c-4130-843b-d5eceef70da8.png">
+ <img  width="400" height="400" src="https://user-images.githubusercontent.com/52382282/151679663-219966b3-a0c2-49e3-81c1-7830304717bc.png">
 
  - ### `Color Picker`
  <img width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679194-e441d1b5-19f4-4057-9a59-9d0f9a65bc18.png">
