@@ -1,7 +1,7 @@
 
 # CSI SPIT Hackathon 2022 
 ## Problem Statement
-Create your own Personal Assistant
+PS 7 - Create your own Personal Assistant
 
 
 ## Team Details
