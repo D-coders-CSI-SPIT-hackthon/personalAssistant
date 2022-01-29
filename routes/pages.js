@@ -18,5 +18,13 @@ router.get("/opentodo",(req,res)=>{
     res.render("todo");
 })
 
+router.get("/ascii",(req,res)=>{
+    res.render("ascii");
+})
+
+router.get("/regex",(req,res)=>{
+    res.render("regex");
+})
+
 
 module.exports = router;

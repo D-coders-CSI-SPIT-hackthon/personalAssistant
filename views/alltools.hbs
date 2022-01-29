@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,102 +10,119 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <script src="assets/js/navbar.js" defer></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/themes/classic.min.css"/>
-  <script src="https://code.jquery.com/jquery-3.4.0.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/themes/classic.min.css" />
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js" defer></script>
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="./assets/css/alltools.css">
     <link rel="stylesheet" href="./assets/css/color-picker.css">
 
 </head>
+
 <body>
-    
-<!-- header section starts  -->
 
-<header>
+    <!-- header section starts  -->
 
-    <a href="/" class="logo"><span>Pro</span>Assistant</a>
+    <header style="height:50px; padding-top:80px;">
 
-    <input type="checkbox" id="menu-bar">
-    <label for="menu-bar" class="fas fa-bars"></label>
+        <a href="/" class="logo" style=" padding-bottom:60px;"><span>Pro</span>Assistant</a>
 
-    <nav class="navbar">
-        <a href="/">home</a>
-       
-        <a href="/opentools">Tools</a>
-  
-    
-    </nav>
+        <input type=" checkbox" id="menu-bar">
+        <label for="menu-bar" class="fas fa-bars"></label>
 
-</header>
+        <nav class="navbar">
+            <a href="/">home</a>
 
-<!-- header section ends -->
+            <a href="/opentools">Tools</a>
 
 
+        </nav>
 
-<!-- features section starts  -->
+    </header>
 
-<section class="features" id="features">
+    <!-- header section ends -->
 
-    <h1 class="heading"> Available tools </h1>
 
-    <div class="box-container">
 
-        <div class="box">
-            <img src="./assets/img/whiteboard.png" alt="">
-            <h3>Whiteboard</h3>
-            <p>Write down your coding logic to better analyze the problem statement</p>
-            <a href="/openwhiteboard" class="btn">Use now</a>
-        </div>
+    <!-- features section starts  -->
 
-        <div class="box">
-            <img src="./assets/img/colorpicker.png" alt="">
-            <h3>Color picker</h3>
-            <p>Tired of finding right color code? you're just a click away to get the desired code for your design</p>
-            <button type="button" class="btn" data-toggle="modal" data-target="#colorModal">
-                Use Now
-            </button>
-            <!-- Modal -->
-            <div class="modal fade" id="colorModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Click on the box to pick color.</h5>
-                    <div class="color-picker"></div>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
+    <section class="features" id="features" style="padding-top: 90px;">
+
+        <h1 class="heading"> Available tools </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="./assets/img/whiteboard.png" alt="">
+                <h3>Whiteboard</h3>
+                <p>Write down your coding logic to better analyze the problem statement</p>
+                <a href="/openwhiteboard" class="btn">Use now</a>
+            </div>
+
+            <div class="box">
+                <img src="./assets/img/colorpicker.png" alt="">
+                <h3>Color picker</h3>
+                <p>Tired of finding right color code? you're just a click away to get the desired code for your design
+                </p>
+                <button type="button" class="btn" data-toggle="modal" data-target="#colorModal">
+                    Use Now
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="colorModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Click on the box to pick color.</h5>
+                                <div class="color-picker"></div>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                ...
+                            </div>
+                        </div>
                     </div>
-                    <div class="modal-body">
-                    ...              
-                    </div>
-                </div>
                 </div>
             </div>
+
+            <div class="box">
+                <img src="./assets/img/todo.png" alt="">
+                <h3>Todo List</h3>
+                <p>Maintain a ToDo List to get hold on your work schedule</p>
+                <a href="/opentodo" class="btn">Use now</a>
+            </div>
+
+            <div class="box">
+                <img src="./assets/img/ascii.png" alt="">
+                <h3>ASCII Values</h3>
+                <p>We understand your struggle behind finding the correct ASCII values and that's why we got you
+                    covered! find ASCII values here</p>
+                <a href="/ascii" class="btn">Use now</a>
+            </div>
+            <div class="box">
+                <img src="./assets/img/regex.png" alt="">
+                <h3>Regex</h3>
+                <p>Copy any regular expression from here</p>
+                <a href="/regex" class="btn">Use now</a>
+            </div>
+
         </div>
 
-        <div class="box">
-            <img src="./assets/img/f-icon3.png" alt="">
-            <h3>Todo List</h3>
-            <p>Maintain a ToDo List to get hold on your work schedule</p>
-            <a href="/opentodo" class="btn">Use now</a>
-        </div>
+    </section>
+
+    <!-- features section ends -->
+
+
+    <div id="windows-container">
 
     </div>
 
-</section>
-
-<!-- features section ends -->
-
-
-<div id="windows-container">
-
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/pickr.min.js"></script>
-<script src='./assets/js/color-picker.js'></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/pickr.min.js"></script>
+    <script src='./assets/js/color-picker.js'></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 </body>
 
@@ -129,4 +147,5 @@
 
 
 </body>
+
 </html>
