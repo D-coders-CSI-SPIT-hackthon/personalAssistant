@@ -26,5 +26,8 @@ router.get("/regex",(req,res)=>{
     res.render("regex");
 })
 
+router.get("/stackoverflow",(req,res)=>{
+    res.render("stackoverflow");
+})
 
 module.exports = router;
