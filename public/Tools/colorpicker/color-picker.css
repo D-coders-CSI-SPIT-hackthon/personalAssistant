@@ -1,3 +1,7 @@
 .modal-body {
   height: 300px;
 }
+
+.pcr-app .pcr-interaction .pcr-result {
+  min-width: 11em;
+}
