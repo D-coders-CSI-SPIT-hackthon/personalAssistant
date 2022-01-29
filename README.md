@@ -32,13 +32,13 @@
   <img src="https://user-images.githubusercontent.com/52382282/151678791-e3237c08-88eb-44fb-b7d4-f3f66c0d74f3.png" alt="drawing" width="800"/>
 
 - ### `Tools Page`!
-  <img src="https://user-images.githubusercontent.com/52382282/151679983-f04af827-6981-4769-8a97-c1fea5a151cd.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/151678822-720a059e-2ca6-4fb5-ae02-33b43397e9b9.png" alt="drawing" width="800"/>
 
 - ### `White Board`
  <img  width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151678939-c97d419e-51ae-4f6f-a853-e846a9cc1010.png">
 
 - ### `TODO List`
- <img width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679040-e31a7137-3124-49ac-b992-43b644ec2bb5.png">
+ <img width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679983-f04af827-6981-4769-8a97-c1fea5a151cd.png">
   
 - ### `Tech News` 
  <img  width="800" height="400" src="https://user-images.githubusercontent.com/52382282/151679085-2f316b29-3627-429d-9143-0e3f2171e9fd.png">
